@@ -19,10 +19,20 @@ public class EventEditDialogController {
     private Stage dialogStage;
     private Event event;
     private boolean okClicked = false;
+<<<<<<< HEAD
+<<<<<<< HEAD
 /*e fzefze ef fe */
     /**
+=======
+/*efdzeefzefzefzef*/
+    /*edzefefkzeofjzeofjzefizejiofejfiefjzeiofjefjzeifjzefuizefizdazdzdazdzd azzddazdazd
+>>>>>>> feature/test
+=======
+/*dazd az az ae e fe*/
+    /**test 2
+>>>>>>> feature/test_2
      * Initializes the controller class. This method is automatically called
-     * after the fxml file has been loaded.
+     * after the fxml file has been loaded.dzdazdazdzdzefefferffefeCZE ZEFZEF ezfzefefefefefefffe
      */
     @FXML
     private void initialize() {

@@ -164,7 +164,8 @@ public class CalendarViewController {
 
 		calendarGrid.getChildren().removeAll(labelList);
 		calendarGrid.getRowConstraints().removeAll(rowConstraintsList);
-      cal.setMinimalDaysInFirstWeek(1);
+        cal.setMinimalDaysInFirstWeek(1);
+     /*je faits de zdzad zd zadtes= test à la con*/
         monthIndex = cal.get(Calendar.MONTH);
         year = cal.get(Calendar.YEAR);
 
