@@ -19,7 +19,7 @@ public class EventEditDialogController {
     private Stage dialogStage;
     private Event event;
     private boolean okClicked = false;
-
+/*efdzeefzefzefzef*/
     /**
      * Initializes the controller class. This method is automatically called
      * after the fxml file has been loaded.
