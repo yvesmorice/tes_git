@@ -22,7 +22,7 @@ public class EventEditDialogController {
 /*dazd az az ae e fe*/
     /**
      * Initializes the controller class. This method is automatically called
-     * after the fxml file has been loaded.dzdazdazdzdzefefferffefeCZE ZEFZEF 
+     * after the fxml file has been loaded.dzdazdazdzdzefefferffefeCZE ZEFZEF ezfzefefefefefefffe
      */
     @FXML
     private void initialize() {
